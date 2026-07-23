@@ -1,7 +1,27 @@
 aid: ahlijasa
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ahlijasa.png
 name: Ahlijasa
-description: Ahlijasa is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Ahlijasa was an Indonesian on-demand home services startup founded in 2015
+  in the Greater Jakarta area by Jay Jayawijayaningtiyas and Made Dimas Astra Wijaya. It
+  originally offered laundry, air-conditioning repair, and home cleaning before pivoting in
+  late 2016 to focus exclusively on on-demand laundry by partnering with premium and
+  traditional laundrettes to give them a digital storefront and online customer base. The
+  company won Startup World Cup Indonesia in 2016 and raised seed funding in May 2017 from
+  500 Startups (500 Global), Fenox VC, and Indogen Capital, but secured no further funding
+  afterward. Its primary domain (ahlijasa.com) now resolves to a domain-parking/for-sale
+  page, indicating the business is no longer operating. No public API, developer portal, or
+  machine-readable API artifacts were found for this provider during enrichment.
 url: https://raw.githubusercontent.com/api-evangelist/ahlijasa/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +29,21 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-status-note: 'Primary domain ahlijasa.com redirects to a HugeDomains parking/for-sale page
+  (verified 2026-07-17, HTTP 200 -> www.hugedomains.com); no live API or developer surface.'
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Home Services
+- Laundry
+- On-Demand
+- Marketplace
+- Indonesia
+- Consumer Services
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +53,8 @@ maintainers:
 common:
 - type: Website
   url: https://ahlijasa.com
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
