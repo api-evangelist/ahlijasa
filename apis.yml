@@ -32,7 +32,7 @@ x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-note: 'Primary domain ahlijasa.com redirects to a HugeDomains parking/for-sale page
   (verified 2026-07-17, HTTP 200 -> www.hugedomains.com); no live API or developer surface.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
