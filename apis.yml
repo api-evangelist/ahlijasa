@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://ahlijasa.com', status: 302, note: 'declared website redirects to hugedomains.com — a domain sales/parking service, so the domain has lapsed rather than moved to an acquirer (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ahlijasa.png
 name: Ahlijasa
 description: Ahlijasa was an Indonesian on-demand home services startup founded in 2015
