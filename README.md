@@ -64,6 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ahlijasa is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: 500-global — https://ahlijasa.com
+Ahlijasa was an Indonesian on-demand home services startup founded in 2015 in the Greater Jakarta area by Jay Jayawijayaningtiyas and Made Dimas Astra Wijaya. It originally offered laundry, air-conditioning repair, and home cleaning before pivoting in late 2016 to focus exclusively on on-demand laundry by partnering with premium and traditional laundrettes to give them a digital storefront and online customer base. The company won Startup World Cup Indonesia in 2016 and raised seed funding in May 2017 from 500 Startups (500 Global), Fenox VC, and Indogen Capital, but secured no further funding afterward. Its primary domain (ahlijasa.com) now resolves to a domain-parking/for-sale page, indicating the business is no longer operating. No public API, developer portal, or machine-readable API artifacts were found for this provider during enrichment.
+
+**Areas:** Company · Home Services · Laundry · On-Demand · Marketplace · Indonesia · Consumer Services · Defunct
+
+## Ahlijasa on APIs.io (historical record)
+
+Everything profiled for Ahlijasa is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ahlijasa/](https://apis.io/providers/ahlijasa/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ahlijasa.com)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ahlijasa: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ahlijasa/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
